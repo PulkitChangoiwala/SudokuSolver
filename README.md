@@ -24,4 +24,12 @@ Install pygame using command "pip install pygame".
  Press SPACE :- For seeing how BACKTRACKING is solving the SUDOKU.
 ```
 
+
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
 Happy Coding, Happy Playing!!!
