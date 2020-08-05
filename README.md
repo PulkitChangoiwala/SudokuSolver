@@ -25,11 +25,6 @@ Install pygame using command "pip install pygame".
 ```
 
 
-<img
-src=“images/SubPronouns.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Happy Coding, Happy Playing!!!
