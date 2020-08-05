@@ -24,7 +24,13 @@ Install pygame using command "pip install pygame".
  Press SPACE :- For seeing how BACKTRACKING is solving the SUDOKU.
 ```
 
+### Sudoku GUI
+![Image of Yaktocat](Image.jpg)
 
-![Image of Yaktocat](sp.jpg)
+
+### Backtracking Algorithm. (After pressing SPACE)
+![Image of Yaktocat](BackTrackingImage.jpg)
+
+
 
 Happy Coding, Happy Playing!!!
