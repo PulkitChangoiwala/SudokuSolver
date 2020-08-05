@@ -25,11 +25,11 @@ Install pygame using command "pip install pygame".
 ```
 
 ### Sudoku GUI
-![Image of Yaktocat](Image.JPG)
+![Image of Yaktocat](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/Image.JPG)
 
 
 ### Backtracking Algorithm. (After pressing SPACE)
-![Image of Yaktocat](BackTrackingImage.JPG)
+![Image of Yaktocat](https://github.com/PulkitChangoiwala/ProjectPhotos/blob/master/BackTrackingImage.JPG)
 
 
 
