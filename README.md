@@ -25,6 +25,6 @@ Install pygame using command "pip install pygame".
 ```
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](sp.jpg)
 
 Happy Coding, Happy Playing!!!
